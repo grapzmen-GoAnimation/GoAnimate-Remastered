@@ -1,1 +1,1 @@
-GoAnimate Wrapper 1.2.8.2
+GoAnimate Remastered V3
